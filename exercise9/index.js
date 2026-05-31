@@ -1,0 +1,21 @@
+let car = {
+
+    make: "Toyota",
+
+    model: "Corolla",
+
+    year: 2020,
+
+    start: function() {
+
+        console.log("The car has started.");
+
+}
+}
+
+console.log(car.start());
+
+
+
+
+
